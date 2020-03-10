@@ -1,8 +1,3 @@
-## 我的社区
-hello
-
-## 脚本
-```sql
 create table USER
 (
 	ID INT auto_increment,
@@ -14,4 +9,4 @@ create table USER
 	constraint USER_PK
 		primary key (ID)
 );
-```
+
